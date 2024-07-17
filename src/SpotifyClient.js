@@ -3,8 +3,8 @@ import SpotifyWebApi from 'spotify-web-api-node';
 import axios from 'axios';
 
 const spotifyApi = new SpotifyWebApi({
-  clientId: 'YOUR_CLIENT_ID',
-  clientSecret: 'YOUR_CLIENT_SECRET',
+  clientId: 'f2e0c9225f55426d87a2752c06715526',
+  clientSecret: 'a51658428e644433b177e75f4171137f',
   redirectUri: 'http://localhost:3000/callback'
 });
 
