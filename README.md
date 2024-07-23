@@ -7,4 +7,4 @@ Well, as spotify these days is getting very harsh, with premium everywhere and t
 - 2. Will try to get lyrics to work even with no premium
 - 3. And more 👀
 
-# For now it ismt completed. But stay tuned.
+# For now it isnt completed. But stay tuned.
